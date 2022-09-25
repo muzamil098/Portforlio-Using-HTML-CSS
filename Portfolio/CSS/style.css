@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/* 
+    Browncolors{ 
+    472D2D
+    }
+*/
+.btn{
+    background: none;
+    color: #fcf412;
+    border: 2px solid #fcf412;
+    font-weight: bolder;
+}
+.card .btn{
+   background: #383E56;
+}
+.card .btn:hover{
+    background: #383E56;
+ }
+.btn:hover{
+    background: rgb(213, 212, 212) ;
+    color: #383E56;
+    border: 2px solid #fcf412;
+
+}
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+}
+nav{
+    background-color: #6F38C5;
+}
+.scroll-on{
+    box-shadow: 0 1px 6px black;
+}
+.navbar-brand{
+    color: #fcf412;
+}
+.Cbackground{
+    background-color: #6F38C5;
+    width: 100%;
+    height: 30rem;
+    color: white;
+}
+.sections{
+    background-color:#383E56 ;
+    padding: 1rem;
+}
+
+.landinghead span{
+    border: 3px solid #ffffff;
+    padding: 1.5px;
+}
+#Fhead{
+    padding: 3px;
+}
+#achievements{
+    background-color: #383E56;
+    color: rgb(255, 255, 255);
+}
+.card{
+    color: #383E56;
+    border: 4px solid #fcf412;
+    background-color: rgb(213, 212, 212);
+    box-shadow: 6px 6px 2px black;
+}
+#UIUXdescription{
+    color: white;
+    border-left: 6px solid #fcf412;
+}
+#FiverHead{
+    border-left: 5px solid #fcf412;
+    color: white;
+}
+#Fiver p{
+    color: white;
+}
+.achievementsDescriptionright .card{
+    box-shadow: -6px 6px 2px black;
+}
+#Profiles a{
+    text-decoration: none;
+    color: #383E56 ;
+}
+#Profiles .btn{
+    text-decoration: none;
+    color: white ;
+}
+#Profiles img{
+    border: 4px solid #fcf412;
+    box-shadow: 0px 0px 10px black;
+}
+.carousel h5{
+    color: #383E56;
+}
+.carousel{
+    border: 4px solid #fcf412;
+    box-shadow: 0 0 10px black;
+}
+#Fiver a{
+    text-decoration: none;
+    color: #383E56;    
+}
+#Fiver img{
+    border: 4px solid #fcf412;
+    box-shadow: 0px 0px 10px black;
+}
+#Fiver .container{
+    border: 4px solid #fcf412;
+    box-shadow: 0px 0px 10px black;
+}
